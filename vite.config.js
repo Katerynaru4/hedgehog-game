@@ -1,6 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
+  base: '/hedgehog-game/',
   test: {
     globals: true,
     environment: 'node',

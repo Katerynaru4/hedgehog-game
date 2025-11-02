@@ -2,6 +2,10 @@
 
 A browser-based game built with Vite and JavaScript (ES6 modules), featuring a hedgehog navigating through a forest while avoiding predators, collecting food, and interacting with NPCs.
 
+## 🎮 Play Online
+
+**[👉 Play the game on GitHub Pages](https://katerynaru4.github.io/hedgehog-game/)**
+
 ## 🚀 Getting Started
 
 ### Prerequisites
